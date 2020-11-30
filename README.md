@@ -1,5 +1,7 @@
 # Text Generation using LSTM
 
-## We have used Moby-Dick Chapter-4 dataset and using LSTM and Embedding layers for text generation.
+## Moby-Dick is a novel by American writer Harman Melville.We have used Moby-Dick Chapter-4 dataset.
+
+We are using Keras,spacy,LSTM and Embedding layers in this project.
 
 
